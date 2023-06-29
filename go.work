@@ -1,0 +1,26 @@
+go 1.20
+
+use (
+	./01Hello
+	./02Variables
+	./04Conversion
+	./05Time
+	./07MyPointers
+	./08Array
+	./09Slices
+	./10MyMaps
+	./11Structs
+	./12IFELSESWITCH
+	./13Loops
+	./14Functions
+	./15Method
+	./16Deferes
+	./17Files
+	./18Webrequest
+	./19Url
+	./20WebRequest
+	./21bitMoreJSON
+	./22Mod
+	./23BuildAPI
+	./UserInput
+)
